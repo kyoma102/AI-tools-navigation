@@ -1,0 +1,388 @@
+{
+  "tools": [
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "developer": "OpenAI",
+      "description": "强大的AI对话模型，可以回答问题、创作内容、辅助编程等",
+      "longDescription": "ChatGPT是由OpenAI开发的大型语言模型，能够理解和生成类似人类的文本。它可以用于各种任务，包括回答问题、创作内容、翻译语言、编写代码、提供建议等。ChatGPT基于GPT（生成式预训练转换器）架构，通过大量文本数据训练而成，能够理解上下文并生成连贯、相关的回复。",
+      "url": "https://chat.openai.com",
+      "category": "文本创作",
+      "tags": ["AI对话", "内容生成", "问答"],
+      "pricing": {
+        "hasFree": true,
+        "hasFreeTrial": false,
+        "startingPrice": "$20/月",
+        "pricingType": "订阅制"
+      },
+      "features": [
+        "自然语言对话",
+        "多语言支持",
+        "代码生成与解释",
+        "内容创作辅助",
+        "信息检索与总结"
+      ],
+      "useCases": [
+        "内容创作：帮助写作文章、博客、广告文案等",
+        "编程辅助：生成代码、解释代码、调试问题",
+        "学习辅助：解释复杂概念、回答问题",
+        "创意激发：提供创意想法、头脑风暴"
+      ],
+      "screenshots": [
+        "/images/chatgpt-1.jpg",
+        "/images/chatgpt-2.jpg",
+        "/images/chatgpt-3.jpg"
+      ],
+      "rating": 4.9,
+      "reviewCount": 2458,
+      "dateAdded": "2022-11-30",
+      "lastUpdated": "2023-03-14",
+      "isPopular": true,
+      "isNew": false
+    },
+    {
+      "id": "midjourney",
+      "name": "Midjourney",
+      "developer": "Midjourney, Inc.",
+      "description": "AI图像生成工具，通过文本描述创建高质量艺术图像",
+      "longDescription": "Midjourney是一款强大的AI图像生成工具，允许用户通过文本提示（prompt）创建高质量、富有艺术性的图像。用户只需描述想要的图像内容，Midjourney就能将文字转化为视觉艺术作品。它支持各种风格、主题和美学，从写实到抽象，从科幻到古典，能够满足不同创意需求。",
+      "url": "https://www.midjourney.com",
+      "category": "图像生成",
+      "tags": ["AI艺术", "图像创作", "设计工具"],
+      "pricing": {
+        "hasFree": false,
+        "hasFreeTrial": true,
+        "startingPrice": "$10/月",
+        "pricingType": "订阅制"
+      },
+      "features": [
+        "文本到图像生成",
+        "多种艺术风格",
+        "高分辨率输出",
+        "批量生成",
+        "图像变体创建"
+      ],
+      "useCases": [
+        "概念艺术：为游戏、电影、动画创建概念图",
+        "插图设计：为书籍、文章、网站创建插图",
+        "品牌视觉：创建品牌相关的视觉内容",
+        "产品设计：生成产品设计概念和模型"
+      ],
+      "screenshots": [
+        "/images/midjourney-1.jpg",
+        "/images/midjourney-2.jpg",
+        "/images/midjourney-3.jpg"
+      ],
+      "rating": 4.8,
+      "reviewCount": 1856,
+      "dateAdded": "2022-07-12",
+      "lastUpdated": "2023-02-15",
+      "isPopular": true,
+      "isNew": false
+    },
+    {
+      "id": "github-copilot",
+      "name": "GitHub Copilot",
+      "developer": "GitHub & OpenAI",
+      "description": "AI编程助手，可以根据注释和上下文自动生成代码",
+      "longDescription": "GitHub Copilot是由GitHub与OpenAI合作开发的AI编程助手，它能够根据开发者的注释和现有代码上下文自动生成代码建议。Copilot基于OpenAI的Codex模型，该模型是在大量公开代码库上训练的。它可以理解多种编程语言，并能提供完整的函数、类甚至整个算法实现的建议。",
+      "url": "https://github.com/features/copilot",
+      "category": "编程开发",
+      "tags": ["代码生成", "开发工具", "编程辅助"],
+      "pricing": {
+        "hasFree": false,
+        "hasFreeTrial": true,
+        "startingPrice": "$10/月",
+        "pricingType": "订阅制"
+      },
+      "features": [
+        "实时代码建议",
+        "多语言支持",
+        "IDE集成",
+        "完整函数生成",
+        "注释到代码转换"
+      ],
+      "useCases": [
+        "加速开发：快速生成样板代码和常见功能",
+        "学习新语言：通过示例学习不熟悉的编程语言",
+        "探索解决方案：获取解决特定问题的多种方法",
+        "提高生产力：减少编写重复代码的时间"
+      ],
+      "screenshots": [
+        "/images/github-copilot-1.jpg",
+        "/images/github-copilot-2.jpg",
+        "/images/github-copilot-3.jpg"
+      ],
+      "rating": 4.7,
+      "reviewCount": 1245,
+      "dateAdded": "2021-06-29",
+      "lastUpdated": "2023-01-25",
+      "isPopular": true,
+      "isNew": false
+    },
+    {
+      "id": "descript",
+      "name": "Descript",
+      "developer": "Descript, Inc.",
+      "description": "AI音频和视频编辑工具，可以像编辑文档一样编辑媒体内容",
+      "longDescription": "Descript是一款革命性的音频和视频编辑工具，它允许用户像编辑文本文档一样编辑媒体内容。通过先进的AI技术，Descript可以自动转录音频和视频，然后用户可以通过编辑转录文本来编辑原始媒体。此外，它还提供AI语音克隆、画面合成和各种自动化编辑功能，大大简化了媒体制作流程。",
+      "url": "https://www.descript.com",
+      "category": "音频处理",
+      "tags": ["视频编辑", "音频编辑", "转录工具"],
+      "pricing": {
+        "hasFree": true,
+        "hasFreeTrial": true,
+        "startingPrice": "$12/月",
+        "pricingType": "订阅制"
+      },
+      "features": [
+        "文本编辑式媒体编辑",
+        "自动转录",
+        "AI语音克隆",
+        "画面合成",
+        "一键去除填充词"
+      ],
+      "useCases": [
+        "播客制作：录制、编辑和发布高质量播客",
+        "视频内容创作：简化YouTube和社交媒体视频制作",
+        "会议记录：转录和编辑会议录音",
+        "教育内容：创建教学视频和演示"
+      ],
+      "screenshots": [
+        "/images/descript-1.jpg",
+        "/images/descript-2.jpg",
+        "/images/descript-3.jpg"
+      ],
+      "rating": 4.6,
+      "reviewCount": 987,
+      "dateAdded": "2022-03-18",
+      "lastUpdated": "2023-04-05",
+      "isPopular": false,
+      "isNew": false
+    },
+    {
+      "id": "claude-3",
+      "name": "Claude 3",
+      "developer": "Anthropic",
+      "description": "Anthropic推出的新一代AI助手，支持多模态交互",
+      "longDescription": "Claude 3是Anthropic公司推出的最新一代AI助手，它采用了先进的大型语言模型技术，并支持多模态交互能力。Claude 3不仅能够理解和生成文本，还能分析图像内容并基于视觉信息提供回应。它被设计为更加安全、诚实和有帮助的AI助手，特别注重减少有害输出和幻觉问题。",
+      "url": "https://www.anthropic.com/claude",
+      "category": "文本创作",
+      "tags": ["AI对话", "多模态", "内容生成"],
+      "pricing": {
+        "hasFree": true,
+        "hasFreeTrial": true,
+        "startingPrice": "$20/月",
+        "pricingType": "订阅制"
+      },
+      "features": [
+        "多模态理解能力",
+        "更长的上下文窗口",
+        "减少幻觉问题",
+        "更好的推理能力",
+        "更自然的对话体验"
+      ],
+      "useCases": [
+        "研究辅助：帮助分析文献和数据",
+        "内容创作：生成和编辑各类文本内容",
+        "图像分析：理解和描述图像内容",
+        "教育辅导：提供个性化学习支持"
+      ],
+      "screenshots": [
+        "/images/claude-3-1.jpg",
+        "/images/claude-3-2.jpg",
+        "/images/claude-3-3.jpg"
+      ],
+      "rating": 4.8,
+      "reviewCount": 456,
+      "dateAdded": "2023-03-04",
+      "lastUpdated": "2023-03-04",
+      "isPopular": false,
+      "isNew": true
+    },
+    {
+      "id": "sora",
+      "name": "Sora",
+      "developer": "OpenAI",
+      "description": "OpenAI推出的文本生成视频AI模型，可创建高质量视频内容",
+      "longDescription": "Sora是OpenAI推出的革命性文本到视频生成AI模型，能够根据文本描述创建逼真、高质量的视频内容。它可以生成长达一分钟的复杂场景视频，包含多个角色、特定动作类型和主体与背景的精确细节。Sora能够理解用户请求中的视觉和物理世界元素，生成遵循用户意图的视频内容。",
+      "url": "https://openai.com/sora",
+      "category": "视频制作",
+      "tags": ["AI视频", "内容生成", "创意工具"],
+      "pricing": {
+        "hasFree": false,
+        "hasFreeTrial": false,
+        "startingPrice": "尚未公开",
+        "pricingType": "未知"
+      },
+      "features": [
+        "文本到视频生成",
+        "长达一分钟的视频创建",
+        "复杂场景渲染",
+        "多角色互动",
+        "物理世界模拟"
+      ],
+      "useCases": [
+        "电影制作：创建概念视频和视觉效果",
+        "营销内容：生成产品演示和广告",
+        "教育内容：制作教学和演示视频",
+        "创意表达：将想法转化为视觉叙事"
+      ],
+      "screenshots": [
+        "/images/sora-1.jpg",
+        "/images/sora-2.jpg",
+        "/images/sora-3.jpg"
+      ],
+      "rating": 4.9,
+      "reviewCount": 128,
+      "dateAdded": "2024-02-15",
+      "lastUpdated": "2024-02-15",
+      "isPopular": false,
+      "isNew": true
+    },
+    {
+      "id": "notion-ai",
+      "name": "Notion AI",
+      "developer": "Notion Labs, Inc.",
+      "description": "为Notion笔记软件提供AI写作和内容生成功能",
+      "longDescription": "Notion AI是Notion笔记软件的AI助手功能，它集成在Notion平台中，为用户提供智能写作和内容生成支持。用户可以使用Notion AI来撰写、编辑、总结、翻译和改进文本内容。它能够理解上下文，生成符合用户需求的各类文档，从简单的电子邮件到复杂的报告和创意内容。",
+      "url": "https://www.notion.so/product/ai",
+      "category": "效率工具",
+      "tags": ["笔记工具", "写作辅助", "内容生成"],
+      "pricing": {
+        "hasFree": false,
+        "hasFreeTrial": true,
+        "startingPrice": "$10/月",
+        "pricingType": "附加功能"
+      },
+      "features": [
+        "智能写作辅助",
+        "内容总结",
+        "文本改写和编辑",
+        "多语言翻译",
+        "头脑风暴功能"
+      ],
+      "useCases": [
+        "内容创作：快速生成博客、文章和报告",
+        "会议记录：总结和组织会议笔记",
+        "项目管理：创建任务描述和项目文档",
+        "学习辅助：总结学习材料和创建学习笔记"
+      ],
+      "screenshots": [
+        "/images/notion-ai-1.jpg",
+        "/images/notion-ai-2.jpg",
+        "/images/notion-ai-3.jpg"
+      ],
+      "rating": 4.5,
+      "reviewCount": 876,
+      "dateAdded": "2022-11-16",
+      "lastUpdated": "2023-05-10",
+      "isPopular": true,
+      "isNew": false
+    },
+    {
+      "id": "dall-e-3",
+      "name": "DALL-E 3",
+      "developer": "OpenAI",
+      "description": "OpenAI的最新图像生成模型，可从详细文本描述创建高度逼真的图像",
+      "longDescription": "DALL-E 3是OpenAI开发的最新图像生成AI模型，它能够从详细的文本描述创建高度逼真和准确的图像。相比前代产品，DALL-E 3在理解复杂提示、渲染文本和人物形象方面有了显著提升。它可以生成各种风格的图像，从照片级真实到艺术插图，并能准确捕捉用户描述中的细节和意图。",
+      "url": "https://openai.com/dall-e-3",
+      "category": "图像生成",
+      "tags": ["AI艺术", "设计工具", "创意辅助"],
+      "pricing": {
+        "hasFree": true,
+        "hasFreeTrial": false,
+        "startingPrice": "信用点数制",
+        "pricingType": "按使用付费"
+      },
+      "features": [
+        "高精度文本到图像转换",
+        "准确渲染文本和人物",
+        "多种艺术风格",
+        "高分辨率输出",
+        "与ChatGPT集成"
+      ],
+      "useCases": [
+        "设计原型：快速创建产品和UI设计概念",
+        "营销素材：生成社交媒体和广告图像",
+        "插图创作：为文章、书籍和网站创建插图",
+        "概念艺术：为游戏、电影和动画创建概念图"
+      ],
+      "screenshots": [
+        "/images/dall-e-3-1.jpg",
+        "/images/dall-e-3-2.jpg",
+        "/images/dall-e-3-3.jpg"
+      ],
+      "rating": 4.7,
+      "reviewCount": 1023,
+      "dateAdded": "2023-09-20",
+      "lastUpdated": "2023-09-20",
+      "isPopular": true,
+      "isNew": false
+    }
+  ],
+  "categories": [
+    {
+      "id": "text-creation",
+      "name": "文本创作",
+      "icon": "pencil",
+      "description": "用于生成、编辑和优化各类文本内容的AI工具"
+    },
+    {
+      "id": "image-generation",
+      "name": "图像生成",
+      "icon": "image",
+      "description": "将文本描述转换为图像或编辑现有图像的AI工具"
+    },
+    {
+      "id": "audio-processing",
+      "name": "音频处理",
+      "icon": "microphone",
+      "description": "用于创建、编辑、转录和优化音频内容的AI工具"
+    },
+    {
+      "id": "video-production",
+      "name": "视频制作",
+      "icon": "video",
+      "description": "辅助视频创建、编辑和优化的AI工具"
+    },
+    {
+      "id": "programming",
+      "name": "编程开发",
+      "icon": "code",
+      "description": "辅助代码编写、调试和优化的AI工具"
+    },
+    {
+      "id": "productivity",
+      "name": "效率工具",
+      "icon": "clipboard",
+      "description": "提高工作效率和组织能力的AI工具"
+    },
+    {
+      "id": "business",
+      "name": "商业应用",
+      "icon": "briefcase",
+      "description": "面向企业和商业用途的AI工具和解决方案"
+    }
+  ],
+  "tags": [
+    "AI对话",
+    "内容生成",
+    "问答",
+    "AI艺术",
+    "图像创作",
+    "设计工具",
+    "代码生成",
+    "开发工具",
+    "编程辅助",
+    "视频编辑",
+    "音频编辑",
+    "转录工具",
+    "多模态",
+    "AI视频",
+    "创意工具",
+    "笔记工具",
+    "写作辅助",
+    "创意辅助"
+  ]
+}
