@@ -319,6 +319,206 @@
       "lastUpdated": "2023-09-20",
       "isPopular": true,
       "isNew": false
+    },
+    {
+      "id": "jasper",
+      "name": "Jasper",
+      "developer": "Jasper AI, Inc.",
+      "description": "AI内容创作平台，帮助团队快速创建高质量营销内容",
+      "longDescription": "Jasper是一个AI驱动的内容创作平台，专为营销团队和内容创作者设计。它可以帮助用户快速生成博客文章、社交媒体帖子、电子邮件、广告文案等各类营销内容。Jasper提供多种专业模板和AI写作助手，能够根据用户的简短指示生成符合品牌声音的高质量内容，大大提高内容创作效率。",
+      "url": "https://www.jasper.ai",
+      "category": "文本创作",
+      "tags": ["内容生成", "营销工具", "写作辅助"],
+      "pricing": {
+        "hasFree": false,
+        "hasFreeTrial": true,
+        "startingPrice": "$49/月",
+        "pricingType": "订阅制"
+      },
+      "features": [
+        "AI内容生成器",
+        "品牌声音定制",
+        "多语言支持",
+        "SEO优化内容",
+        "团队协作功能"
+      ],
+      "useCases": [
+        "营销内容：创建博客、社交媒体和广告文案",
+        "电子商务：生成产品描述和营销邮件",
+        "内容扩展：将简短内容扩展为长篇文章",
+        "创意写作：获取创意灵感和内容框架"
+      ],
+      "screenshots": [
+        "/images/jasper-1.jpg",
+        "/images/jasper-2.jpg",
+        "/images/jasper-3.jpg"
+      ],
+      "rating": 4.6,
+      "reviewCount": 1245,
+      "dateAdded": "2022-05-15",
+      "lastUpdated": "2023-06-20",
+      "isPopular": true,
+      "isNew": false
+    },
+    {
+      "id": "runway",
+      "name": "Runway",
+      "developer": "Runway AI, Inc.",
+      "description": "AI视频和图像编辑平台，提供先进的生成式AI工具",
+      "longDescription": "Runway是一个先进的AI创意工具平台，专注于视频和图像生成与编辑。它提供了包括文本到视频、图像到视频、视频编辑和风格迁移等多种AI功能。Runway的Gen-2模型可以从文本或图像提示创建视频，而其他工具如绿幕、擦除和修复等功能则可以帮助创作者轻松编辑现有媒体。该平台广泛应用于电影制作、广告和数字艺术领域。",
+      "url": "https://runwayml.com",
+      "category": "视频制作",
+      "tags": ["AI视频", "图像编辑", "创意工具"],
+      "pricing": {
+        "hasFree": true,
+        "hasFreeTrial": true,
+        "startingPrice": "$15/月",
+        "pricingType": "订阅制"
+      },
+      "features": [
+        "文本到视频生成",
+        "图像到视频转换",
+        "视频编辑工具",
+        "绿幕和背景移除",
+        "AI图像生成"
+      ],
+      "useCases": [
+        "电影制作：创建特效和视觉元素",
+        "广告制作：生成产品演示和广告素材",
+        "社交媒体：创建引人注目的短视频内容",
+        "艺术创作：探索新的视觉表达形式"
+      ],
+      "screenshots": [
+        "/images/runway-1.jpg",
+        "/images/runway-2.jpg",
+        "/images/runway-3.jpg"
+      ],
+      "rating": 4.7,
+      "reviewCount": 876,
+      "dateAdded": "2022-08-10",
+      "lastUpdated": "2023-07-15",
+      "isPopular": true,
+      "isNew": false
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity AI",
+      "developer": "Perplexity Labs",
+      "description": "AI搜索引擎，提供准确、实时的信息和深入解答",
+      "longDescription": "Perplexity AI是一个由人工智能驱动的搜索引擎和问答系统，它结合了大型语言模型和实时网络搜索功能。与传统搜索引擎不同，Perplexity不仅提供链接列表，还直接生成综合答案，并附带信息来源。它能够理解复杂问题，提供深入、准确的回答，同时保持信息的时效性。Perplexity支持多种查询类型，从简单事实到复杂分析都能处理。",
+      "url": "https://www.perplexity.ai",
+      "category": "效率工具",
+      "tags": ["AI搜索", "信息检索", "问答"],
+      "pricing": {
+        "hasFree": true,
+        "hasFreeTrial": false,
+        "startingPrice": "$20/月",
+        "pricingType": "订阅制"
+      },
+      "features": [
+        "AI驱动的搜索和问答",
+        "实时信息检索",
+        "来源引用和透明度",
+        "多模态查询支持",
+        "对话式搜索体验"
+      ],
+      "useCases": [
+        "研究辅助：快速获取综合研究信息",
+        "学习工具：深入了解复杂主题",
+        "事实核查：验证信息并查找来源",
+        "决策支持：获取分析和见解以辅助决策"
+      ],
+      "screenshots": [
+        "/images/perplexity-1.jpg",
+        "/images/perplexity-2.jpg",
+        "/images/perplexity-3.jpg"
+      ],
+      "rating": 4.8,
+      "reviewCount": 654,
+      "dateAdded": "2023-01-25",
+      "lastUpdated": "2023-09-10",
+      "isPopular": true,
+      "isNew": false
+    },
+    {
+      "id": "synthesia",
+      "name": "Synthesia",
+      "developer": "Synthesia Ltd.",
+      "description": "AI视频生成平台，可通过文本创建真人讲解视频",
+      "longDescription": "Synthesia是一个AI视频生成平台，允许用户仅通过文本脚本创建逼真的人物讲解视频。用户无需摄像设备、演员或工作室，只需选择虚拟人物形象，输入脚本，系统就能自动生成专业质量的视频。Synthesia支持100多种语言，提供多种虚拟人物和自定义背景选项，广泛应用于培训、营销和教育领域。",
+      "url": "https://www.synthesia.io",
+      "category": "视频制作",
+      "tags": ["AI视频", "虚拟人物", "内容生成"],
+      "pricing": {
+        "hasFree": false,
+        "hasFreeTrial": true,
+        "startingPrice": "$30/月",
+        "pricingType": "订阅制"
+      },
+      "features": [
+        "AI虚拟人物视频生成",
+        "多语言支持",
+        "自定义背景和品牌元素",
+        "文本到语音转换",
+        "视频模板库"
+      ],
+      "useCases": [
+        "企业培训：创建内部培训和教程视频",
+        "营销内容：生成产品演示和宣传视频",
+        "教育资源：开发多语言教学内容",
+        "客户支持：制作常见问题解答视频"
+      ],
+      "screenshots": [
+        "/images/synthesia-1.jpg",
+        "/images/synthesia-2.jpg",
+        "/images/synthesia-3.jpg"
+      ],
+      "rating": 4.5,
+      "reviewCount": 789,
+      "dateAdded": "2022-04-18",
+      "lastUpdated": "2023-05-22",
+      "isPopular": false,
+      "isNew": false
+    },
+    {
+      "id": "elevenlabs",
+      "name": "ElevenLabs",
+      "developer": "ElevenLabs, Inc.",
+      "description": "AI语音生成和克隆平台，提供逼真的多语言语音合成",
+      "longDescription": "ElevenLabs是一个先进的AI语音技术平台，专注于生成超逼真的人工智能语音。它提供语音生成、语音克隆和语音转换功能，支持多种语言和口音。用户可以使用预设声音，也可以上传音频样本来克隆特定声音。ElevenLabs的语音合成技术能够捕捉情感和语调细微差别，创造出自然流畅的语音内容，广泛应用于有声读物、播客、游戏和视频配音等领域。",
+      "url": "https://elevenlabs.io",
+      "category": "音频处理",
+      "tags": ["营销工具", "AI语音", "语音合成", "配音工具", "图像编辑"],
+      "pricing": {
+        "hasFree": true,
+        "hasFreeTrial": false,
+        "startingPrice": "$5/月",
+        "pricingType": "订阅制"
+      },
+      "features": [
+        "高质量语音合成",
+        "语音克隆技术",
+        "多语言支持",
+        "情感语调控制",
+        "API接入"
+      ],
+      "useCases": [
+        "内容创作：为视频、播客和有声读物配音",
+        "游戏开发：生成游戏角色对话",
+        "辅助技术：为视障人士创建有声内容",
+        "语言学习：生成多语言发音示例"
+      ],
+      "screenshots": [
+        "/images/elevenlabs-1.jpg",
+        "/images/elevenlabs-2.jpg",
+        "/images/elevenlabs-3.jpg"
+      ],
+      "rating": 4.7,
+      "reviewCount": 562,
+      "dateAdded": "2022-12-05",
+      "lastUpdated": "2023-08-18",
+      "isPopular": true,
+      "isNew": false
     }
   ],
   "categories": [

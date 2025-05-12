@@ -25,7 +25,7 @@ function renderToolCard(tool) {
         <p class="text-gray-600 text-xs sm:text-sm mt-1 sm:mt-2 line-clamp-2">${tool.description}</p>
         <div class="flex justify-between items-center mt-3 sm:mt-4">
           <span class="text-xs text-gray-500">${tool.category}</span>
-          <a href="tool-detail.html?id=${tool.id}" class="text-blue-500 hover:text-blue-600 text-xs sm:text-sm font-medium">查看详情</a>
+          <a href="${tool.url}" target="_blank" class="text-blue-500 hover:text-blue-600 text-xs sm:text-sm font-medium">查看详情</a>
         </div>
       </div>
     </div>
